@@ -1,1 +1,35 @@
+img {
+  padding-top: 20px;
+  margin-bottom: -20px;
+  height: 180px;
+  width: 320px;
+}
 
+.font {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aliceblue;
+}
+
+#rainbow-title {
+  font-size: 30px;
+  text-align: center;
+  color: aliceblue;
+  background-image: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red
+  );
+}
+
+html {
+  background-color: black;
+}
+
+a {
+  color: aliceblue;
+}
